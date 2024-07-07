@@ -166,4 +166,4 @@ languages:
 
 ## About Me
 
-I'm PhD student in ![CVML Lab](https://sites.google.com/view/cvml-kaist). in ![KAIST](https://www.kaist.ac.kr/). I'm doing research in LiDAR Semantic Segmentation & Object Detection in Adverse Weather.
+I'm PhD student in [CVML Lab](https://sites.google.com/view/cvml-kaist). in [KAIST](https://www.kaist.ac.kr/). I'm doing research in LiDAR Semantic Segmentation & Object Detection in Adverse Weather.
