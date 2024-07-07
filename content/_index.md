@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   # - block: collection
-  #   id: papers
+  #   # id: papers # move to Recent Pub
   #   content:
   #     title: Featured Publications
   #     filters:
@@ -54,6 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
