@@ -60,28 +60,14 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-    # summary: |
-    #   GPA: 3.98/4.0
 
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mechanical Engineering & Artificial Intelligence
     institution: Korea University
     date_start: 2017-03-02
     date_end: 2023-08-25
     summary: |
       GPA: 3.96/4.5
-      
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
