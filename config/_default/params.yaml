@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: sky
+  # color: emerald
 
 # SEO
 marketing:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Junsung Park"
 
 # Site footer
 footer:
