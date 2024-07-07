@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a Ph.D. student in KAIST AI (Korea Advanced Institute of Science & Technology).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm interested in Autonomous Driving task, especially in LiDAR Segmentation and Detection in adverse weather.
         
         Please reach out to collaborate 😃
     design:
