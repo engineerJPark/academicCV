@@ -9,9 +9,9 @@ title: Junsung Park
 first_name: Junsung
 last_name: Park
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
