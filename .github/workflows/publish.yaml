@@ -50,17 +50,17 @@ jobs:
         HUGO_ENVIRONMENT: production
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        # hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-        hugo --minify --baseURL "https://junsungpark.github.io/"
+        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        # hugo --minify --baseURL "https://junsungpark.github.io/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
         path: ./public
-    ## newly added
-    - name: Setup CNAME
-      run: echo 'junsungpark.github.io' > public/CNAME
+    # ## newly added
+    # - name: Setup CNAME
+    #   run: echo 'junsungpark.github.io' > public/CNAME
 
   # Deploy website to GitHub Pages hosting
   deploy:
