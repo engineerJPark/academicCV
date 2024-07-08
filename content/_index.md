@@ -66,11 +66,12 @@ sections:
       view: citation
   ## newly added
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: 'January 2006's
       # Education or Experience section first?
       is_education_first: false
   # - block: collection
