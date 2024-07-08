@@ -66,7 +66,6 @@ sections:
       view: citation
   ## newly added
   - block: resume-experience
-    # id: experience
     content:
       username: admin
     design:
