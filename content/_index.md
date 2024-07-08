@@ -54,15 +54,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: experience
-    content:
-      title: Experience
-      text: ""
-      filters:
-        folders:
-          - experience
-        exclude_featured: false
-  - block: collection
     id: news
     content:
       title: Recent News
