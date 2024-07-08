@@ -105,10 +105,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      # - name: SQL
-      #   description: ''
-      #   percent: 40
-      #   icon: circle-stack
+
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
