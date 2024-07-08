@@ -12,7 +12,6 @@ authors:
   - admin
 
 tags:
-  - Academic
   - ECCV 2024
 ---
 

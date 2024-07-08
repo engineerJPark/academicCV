@@ -12,7 +12,6 @@ authors:
   - admin
 
 tags:
-  - Academic
   - AAAI 2024 Edge Intelligence Workshop Ⅲ
 ---
 
