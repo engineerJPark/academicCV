@@ -64,15 +64,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # ## newly added
-  # - block: resume-experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006's
-  #     # Education or Experience section first?
-  #     is_education_first: false
+  - block: collection
+    id: experience
+    content:
+      title: Experience
+      text: ""
+      filters:
+        folders:
+          - experience
+        exclude_featured: false
+
   # - block: collection
   #   id: talks
   #   content:
