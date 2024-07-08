@@ -1,5 +1,5 @@
 ---
-title: 🎉🎉 My paper "Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation" accepted in AAAI 2024 Edge Intelligence Workshop Ⅲ! 🎉🎉
+title: 🎉🎉 My paper "Precision matters':' Precision-aware ensemble for weakly supervised semantic segmentation" accepted in AAAI 2024 Edge Intelligence Workshop Ⅲ! 🎉🎉
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-12-01
 
