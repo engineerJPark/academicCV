@@ -56,6 +56,8 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: Experience
+      text: ""
       username: admin
     design:
       # Hugo date format
