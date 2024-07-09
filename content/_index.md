@@ -51,6 +51,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+    design:
       view: citation
   - block: resume-experience
     id: experience
