@@ -5,7 +5,7 @@ authors:
 - Junsung Park
 - Kyungmin Kim
 - Hyunjung Shim
-date: '2024-01-01'
+date: '2024-07-01'
 publishDate: '2024-07-07T00:36:01.834077Z'
 publication_types:
 - article-journal

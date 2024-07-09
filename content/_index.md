@@ -51,15 +51,16 @@ sections:
         folders:
           - publication
         exclude_featured: false
-  # - block: resume-experience
-  #   id: experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
+      view: citation
+  - block: resume-experience
+    id: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     id: news
     content:
