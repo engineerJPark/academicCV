@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jshackist@kaist.ac.kr'
     label: E-mail Me
-  - icon: "custom/blog"
+  - icon: "custom/tistory"
     url: https://knowledgeforengineers.tistory.com/
   - icon: brands/x
     url: https://x.com/jspark_ai
