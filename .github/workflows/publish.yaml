@@ -58,6 +58,9 @@ jobs:
       uses: actions/upload-pages-artifact@v3 # uses: actions/upload-pages-artifact@v2
       with:
         path: ./public
+    ## debugging
+    - name: List public folder
+      run: ls -al public
     # ## newly added
     # - name: Setup CNAME
     #   run: echo 'junsungpark.github.io' > public/CNAME
@@ -71,6 +74,13 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    ## debugging
+    - name: Download and list artifact
+      uses: actions/download-artifact@v3
+      with:
+        name: github-pages
+    - name: List downloaded artifact
+      run: ls -al .
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v3 # uses: actions/deploy-pages@v2
