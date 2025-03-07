@@ -1,5 +1,5 @@
 ---
-title: 🎉🎉 Our paper "No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather" accepted in CVPR 2025! 🎉🎉
+title: 🎉🎉 Our paper "No Thing, Nothing $:$ Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather" accepted in CVPR 2025! 🎉🎉
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2025-03-05
 
