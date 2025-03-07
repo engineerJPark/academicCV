@@ -49,8 +49,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Computer Vision
-  - LiDAR Segmentation & Detection
+  - LiDAR Perception
+  - End-to-end Autonomous Driving
+  - Vision-Language Models
 
 education:
   - area: PhD Student
