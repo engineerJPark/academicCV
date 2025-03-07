@@ -61,6 +61,7 @@ jobs:
     ## debugging
     - name: List public folder
       run: ls -al public
+    ## debugging
     # ## newly added
     # - name: Setup CNAME
     #   run: echo 'junsungpark.github.io' > public/CNAME
