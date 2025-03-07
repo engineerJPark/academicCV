@@ -55,7 +55,7 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2 # <--- error
+      uses: actions/upload-pages-artifact@v4 # <--- error
       with:
         path: ./public
     ## debugging
@@ -77,16 +77,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2 # <--- error
-
-
-
-
-    # ## debugging
-    # - name: Download and list artifact
-    #   uses: actions/download-artifact@v3
-    #   with:
-    #     name: github-pages
-    # - name: List downloaded artifact
-    #   run: ls -al .
-    # ## debugging
+      uses: actions/deploy-pages@v4 # <--- error
